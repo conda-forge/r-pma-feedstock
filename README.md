@@ -3,6 +3,7 @@ About r-pma-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pma-feedstock/blob/main/LICENSE.txt)
 
+
 About r-pma
 -----------
 
@@ -11,6 +12,7 @@ Home: https://github.com/bnaras/PMA
 Package license: GPL-2.0-or-later
 
 Summary: Performs Penalized Multivariate Analysis: a penalized matrix decomposition, sparse principal components analysis, and sparse canonical correlation analysis, described in Witten, Tibshirani and Hastie (2009) <doi:10.1093/biostatistics/kxp008> and Witten and Tibshirani (2009) Extensions of sparse canonical correlation analysis, with applications to genomic data <doi:10.2202/1544-6115.1470>.
+
 About r-pma
 -----------
 
