@@ -1,4 +1,4 @@
-{% set version = "1.2-3" %}
+{% set version = "1.2-4" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/PMA_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/PMA/PMA_{{ version }}.tar.gz
-  sha256: e7572f82c159f34058fdec4c8158d394d6cf68b7978953c8893315e298cc6d06
+  sha256: 3e9bf312d14077558ce0696e2c5587943850192bff60fb7490f413ba21ab0057
 
 build:
-  number: 1
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
